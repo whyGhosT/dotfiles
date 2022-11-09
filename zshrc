@@ -101,5 +101,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 pfetch
 echo "wg-" | lolcat
-curl 'wttr.in/Korfez?format=4'
-curl 'wttr.in/Mersin?format=4'
+alias izmit="curl 'wttr.in/Korfez?format=4'"
+alias mersin="curl 'wttr.in/Mersin?format=4'"
