@@ -100,3 +100,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 pfetch
+echo "wg-" | lolcat
+curl 'wttr.in/Korfez?format=4'
+curl 'wttr.in/Mersin?format=4'
